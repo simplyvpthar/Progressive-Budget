@@ -36,7 +36,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
   * the URL to the deployed application:
 
-  * the URL to the Github repository:
+  * the URL to the Github repository:  https://github.com/simplyvpthar/Progressive-Budget.git
 
   * Heroku: https://vt-budget-tracker.herokuapp.com/
 
