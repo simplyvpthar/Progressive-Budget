@@ -22,7 +22,7 @@ mongoose.connect(
     useUnifiedTopology: true,
     useCreateIndex: true,
     useFindAndModify: false
-  }
+  });
 
 budgetApp.use(require("./routes/api.js"));
 
